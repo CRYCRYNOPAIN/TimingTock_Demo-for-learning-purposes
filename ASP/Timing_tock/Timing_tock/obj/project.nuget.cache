@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wBO2IgnRyLE=",
+  "success": true,
+  "projectFilePath": "D:\\Documents\\TimingTock\\ASP\\Timing_Tock\\Timing_tock\\Timing_tock.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nopainboydontkill\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\nopainboydontkill\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.2\\microsoft.extensions.logging.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\nopainboydontkill\\.nuget\\packages\\mysqlconnector\\2.5.0\\mysqlconnector.2.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+#Tue Apr 14 11:30:02 CST 2026
+base.0=/Users/computer/Desktop/AndroidStudioProjects/timing_tock/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
