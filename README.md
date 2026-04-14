@@ -7,7 +7,7 @@ The core timing feature is only a rough prototype and remains incomplete due to 
 
 **Purpose**: Personal learning exercise only. Not intended for production use.
 
-一个简单的跨平台演示应用，前端使用 Flutter，后端使用 ASP.NET Core 最小化 API。
+一个简单的跨平台演示应用，前端使用 Flutter，后端使用 ASP.NET Core Minimal API。
 在 Android 端通过 OkHttp / Gson 实现了基本的用户认证（注册/登录）和数据同步，数据存储使用 MySQL。
 核心的计时功能只是一个粗略的原型，由于代码设计过于耦合，不再继续完善。
 
